@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="css/memory-game.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Memory Game</title>
+</head>
+
+<body>
+    <main>
+        <center>
+            <h1>MEMORY GAME</h1>
+            <div>
+                <button id="startGame" onclick="startGame()">Start Game</button>
+            </div>
+            <div>
+                <label>Pairs Found: </label>
+                <label id="pairs">0</label>
+            </div>
+            <div>
+                Time:
+                <label id="min">00</label>:<label id="sec">00</label>
+            </div>
+            <div>
+                <label>High Score: </label>
+                <label id="high-score"></label>
+            </div>
+            <br>
+        </center>
+
+        <div id="memory_board"></div>
+        <script src="js/memory-game.js"></script>
+        <script>
+            initialBoard();
+        </script>
+    </main>
+</body>
+
+</html>

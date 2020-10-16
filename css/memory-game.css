@@ -1,0 +1,35 @@
+div#memory_board {
+    background: #D0A2D8;
+    border: #999 1px solid;
+    width: 900px;
+    height: 540px;
+    padding: 24px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: 0px auto;
+}
+
+div#memory_board>div {
+    border: #000 1px solid;
+    background: #BF42D5;
+    width: 71px;
+    height: 71px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 64px;
+    cursor: pointer;
+    text-align: center;
+}
+
+button {
+    height: 50px;
+    width: 150px;
+    background: #D0A2D8;
+    color: black;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #BF42D5;
+    font-style: italic;
+}
