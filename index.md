@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/sarabjotkaurgill/Memory-Game/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+User can start the game with timer running, then user can shuffle the first card and then shuffle second card. If second card exactly same as first card then user score increase and has the chance to win this game with limited time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Project has:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Memory Game - HTML Page
 
-```markdown
-Syntax highlighted code block
+* Memory Game - CSS Page
 
-# Header 1
-## Header 2
-### Header 3
+* Memory Game - JavaScript page
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Team
 
-**Bold** and _Italic_ and `Code` text
+Our team of 2 worked on this project. I worked on structure if project and functionality of card shuffle.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Technologies Used
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sarabjotkaurgill/Memory-Game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. JavaScript
+2. HTML
+3. CSS
